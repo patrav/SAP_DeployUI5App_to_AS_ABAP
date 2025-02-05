@@ -37,3 +37,21 @@ Program name: /UI5/UI5_REPOSITORY_LOAD
 
     ![image](https://github.com/user-attachments/assets/8d328463-6e4f-442d-9f35-1b5d054e099b)
 
+
+## How to Download
+1. Enter SAPUI5 application name
+2. Choose Radio button "Download" and Execute
+
+   ![image](https://github.com/user-attachments/assets/595cbb85-e1d0-4d8a-a72e-b30e4cd7b690)
+
+3. Choose destination folder to be saved
+
+   ![image](https://github.com/user-attachments/assets/01e9c782-c6d1-4275-86ba-1efaf2c8035a)
+
+4. Click on "Click here to Download" to confirm
+
+   ![image](https://github.com/user-attachments/assets/fca041d5-388e-4160-9e32-dbf7fc76c86c)
+
+5. Check in folder for the result. We can use this files in VS Code for the modification
+
+   ![image](https://github.com/user-attachments/assets/a89e74bb-5025-4ee2-82d3-21e44f7ed3bd)
